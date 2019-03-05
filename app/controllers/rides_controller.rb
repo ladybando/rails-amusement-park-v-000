@@ -1,5 +1,8 @@
 class RidesController < ApplicationController
+<<<<<<< HEAD
   include AttractionsHelper
+=======
+>>>>>>> e7498c88a92ba4e8e000e3224b7e23aa2bbb6175
   def index
 
   end
